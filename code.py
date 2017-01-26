@@ -24,7 +24,9 @@ def check_leap_year(year):
     return isLeap
 
 def square (x):
-    return x*x     
+    return x*x 
+
+print ("Hello world")        
 
 print("factorial(0): {}".format(factorial(0)))
 print("factorial(1): {}".format(factorial(1)))
